@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-C/C++
+# Data-Structures-Algorithms C++
 This repo contains three mini-projects that were completed in C++ in the scope of data structures and algorithms relating to Linked-List, Stack & Queue, and Binary Search Trees.
 
 # Mini Project 1:
